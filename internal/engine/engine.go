@@ -8,7 +8,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/CyCoreSystems/netdiscover/discover"
+	"github.com/robertvy/netdiscover/discover"
 	"k8s.io/client-go/kubernetes"
 )
 
