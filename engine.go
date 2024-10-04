@@ -5,9 +5,9 @@ import (
 	"io"
 	"time"
 
-	"github.com/CyCoreSystems/kubetemplate/internal/engine"
+	"github.com/robertvy/kubetemplate/internal/engine"
 
-	"github.com/CyCoreSystems/netdiscover/discover"
+	"github.com/robertvy/netdiscover/discover"
 	"k8s.io/client-go/kubernetes"
 )
 
