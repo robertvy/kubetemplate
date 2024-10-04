@@ -1,9 +1,8 @@
-module github.com/CyCoreSystems/kubetemplate
+module github.com/robertvy/kubetemplate
 
 go 1.17
 
 require (
-	github.com/CyCoreSystems/netdiscover v1.2.6
 	github.com/robertvy/netdiscover v0.0.0-20241004171307-b164e2321885
 	k8s.io/api v0.23.1
 	k8s.io/apimachinery v0.23.1
